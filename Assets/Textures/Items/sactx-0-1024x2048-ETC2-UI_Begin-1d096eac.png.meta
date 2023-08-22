@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: a5054010331e1f5458538ec3f37dd5d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Tang_Luc_Tan_Cong
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27106c40bc3bd0340ba36adf15550e6b
+      internalID: -930360632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Xuyen_Giap
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 792
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85fa338fb7bf64d962fb68883a4d82
+      internalID: 773210586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4bc11148687b459bfe7069009f247
+      internalID: 1098497333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 661
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f1338edc0bc14d896fc4ddcc85b0d
+      internalID: 2046960359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 661
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c664e5c13f628c4a9864d0fe2e8c2d2
+      internalID: -535936387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Limit_Power+1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 661
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6505d930f8214aa411f4963f12b0a
+      internalID: -1782710332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 792
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6ad5cd8be47a4e9217521be193ac1
+      internalID: -2119956756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 793
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d7e6f5f5a712641800185bc871286f
+      internalID: 938637733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Giap_Nho
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 791
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1128420e78dc95f4fb17685c1fa39d40
+      internalID: 509075640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 661
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b3dd2d522f023428a7676b7548b1d6
+      internalID: -980833099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Giap_Lon
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 660
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1e7de464dcf74499f43ef9bef1d0a
+      internalID: -752456655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 529
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd1997a02ab6964494c359c8c7aa94d
+      internalID: -1039846955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Upgrade+3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 529
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc15f28ba4f614c8ca4752d049e2cf
+      internalID: 671474427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 529
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd477d2173909904db4b5f79e0af4c0a
+      internalID: -343996287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Them_Mang
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 529
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd93aed718f16e40bdb4c56a5b1adba
+      internalID: -1283785357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 529
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506867d59ba5534b9fb27cfae3ff44a
+      internalID: 1982660527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd5503d509f6041a150f13abeafaed
+      internalID: 1199340900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 430
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14583d72814ec74c916f71a804057c3
+      internalID: 267141130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae995c8f108835e4bb02b52bef827dae
+      internalID: 245844594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sat_Thuong_Tang_Khi_Giet_Quai
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 397
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10371e0a8424c22458118efbfc60fa0c
+      internalID: 155547387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 397
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6cbf49fb1da0418d8e8e66b64ee54
+      internalID: -771123645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_21
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 397
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8402ebb2dbaa1e7469602ea8a09e1b85
+      internalID: 1590955217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Bac_Thay_Ne_Dan
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 397
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec405271d1bc91e4aaf9e3407cd6ed65
+      internalID: -1351481146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Limit_Power+2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 265
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e4746f7533af146acb26dd32cc8d57
+      internalID: -638286276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Laser+2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 265
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f26bf724cf3541b52970eac0df9b7
+      internalID: 960633984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 265
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f1538977b73f4e84faf9983532a47
+      internalID: 2118004057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Laser+1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 265
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b26dda889e434e96a26180708fafe
+      internalID: 1582059722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_27
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 265
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d3648a34d812e4f87cf8667cb5b0ce
+      internalID: -1453532184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 133
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91790d572827cf4e8934f5a9f77d6a9
+      internalID: -869296588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BulletMainx2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 133
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7801576145dbe654aa14f9e2e444b0b0
+      internalID: 1153763099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 133
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7baaf4e479ca84fa6f1ea07d23b0d0
+      internalID: 1544405855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Skill_Drone_Inc_Hp
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 133
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabfbbd4aea9494693f137dd243d930
+      internalID: -445421530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Skill_Drone_CoolDown
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 133
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367031ff46fed884bb94de218f87d4e5
+      internalID: 844028276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c5eb988cd7f2149854c49619f4a29e
+      internalID: -1611580334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_34
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c588edeaec9748b6f8158fcaa9ad9
+      internalID: -569395346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Skill_Drone_Can_Dan
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bffd7230b1b3746b3e956af1d021c0
+      internalID: 771973046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Skill_Tang_Limit_Hp
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8c94a5a5304f4db7a6e0c64a37645
+      internalID: 1820501540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_Bac_Thay_Ne_Dan: -1351481146
+      Icon_BulletMainx2: 1153763099
+      Icon_Giap_Lon: -752456655
+      Icon_Giap_Nho: 509075640
+      Icon_Laser+1: 1582059722
+      Icon_Laser+2: 960633984
+      Icon_Limit_Power+1: -1782710332
+      Icon_Limit_Power+2: -638286276
+      Icon_Sat_Thuong_Tang_Khi_Giet_Quai: 155547387
+      Icon_Skill_Drone_Can_Dan: 771973046
+      Icon_Skill_Drone_CoolDown: 844028276
+      Icon_Skill_Drone_Inc_Hp: -445421530
+      Icon_Skill_Tang_Limit_Hp: 1820501540
+      Icon_Tang_Luc_Tan_Cong: -930360632
+      Icon_Them_Mang: -1283785357
+      Icon_Upgrade+3: 671474427
+      Icon_Xuyen_Giap: 773210586
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_11: -1039846955
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_13: -343996287
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_15: 1982660527
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_16: 1199340900
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_17: 267141130
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_18: 245844594
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_2: 1098497333
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_20: -771123645
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_21: 1590955217
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_25: 2118004057
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_27: -1453532184
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_28: -869296588
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_3: 2046960359
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_30: 1544405855
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_33: -1611580334
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_34: -569395346
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_4: -535936387
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_6: -2119956756
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_7: 938637733
+      sactx-0-1024x2048-ETC2-UI_Begin-1d096eac_9: -980833099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
